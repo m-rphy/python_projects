@@ -1,2 +1,2 @@
 # python_projects
-This is a random assortment of python projects to show case various tools. Ranging from NumPy and Matplotlib, to Pools and sys. 
+This is an assortment of python projects to show various tools. Ranging from NumPy and Matplotlib, to Pools and sys. 
